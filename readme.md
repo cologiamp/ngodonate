@@ -12,4 +12,5 @@ Config Base URL at application/config/config.php
 
 Config Database Credentials at application/config/database.php
 
+Require "rewrite_module" activated for .htaccess to work.
 ```
